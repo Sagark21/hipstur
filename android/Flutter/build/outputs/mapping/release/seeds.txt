@@ -1,0 +1,26 @@
+com.example.hipstur.R$id
+io.flutter.plugins.GeneratedPluginRegistrant
+com.example.hipstur.R$styleable
+com.example.hipstur.R$styleable: R$styleable()
+com.example.hipstur.R$color
+com.example.hipstur.R$color: R$color()
+com.example.hipstur.R$style
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.example.hipstur.R$layout
+com.example.hipstur.R$drawable
+com.example.hipstur.R$dimen
+com.example.hipstur.R$dimen: R$dimen()
+com.example.hipstur.R$attr
+com.example.hipstur.R$integer
+com.example.hipstur.R$string
+com.example.hipstur.R
+com.example.hipstur.R$integer: R$integer()
+com.example.hipstur.R$layout: R$layout()
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.example.hipstur.R: R()
+com.example.hipstur.R$id: R$id()
+com.example.hipstur.R$attr: R$attr()
+com.example.hipstur.R$style: R$style()
+com.example.hipstur.R$string: R$string()
+com.example.hipstur.R$drawable: R$drawable()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
